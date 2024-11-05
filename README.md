@@ -1,6 +1,6 @@
 # Fresh Graduate Academy Digitalent: Final Project
 
-![Project Banner](../assets/Screenshot\ 2024-11-05\ at\ 09.45.16.png)
+![Project Banner](https://raw.githubusercontent.com/naufalnashif/fga-python/refs/heads/main/scraping_analysis_app/frontend/assets/Screenshot%202024-11-05%20at%2009.45.16.png)
 
 Excited to complete the final project for the **Big Data Using Python** course at Digitalent Academy in partnership with Binus University! 🎓
 
