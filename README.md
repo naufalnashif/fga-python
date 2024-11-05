@@ -1,8 +1,6 @@
 # Fresh Graduate Academy Digitalent: Final Project
 
-## Video Proyek
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7239283862437027843" height="400" width="600" frameborder="0" allowfullscreen="true" title="Video Proyek"></iframe>
+![Project Banner](assets/Screenshot\ 2024-11-05\ at\ 09.45.16.png)
 
 Excited to complete the final project for the **Big Data Using Python** course at Digitalent Academy in partnership with Binus University! 🎓
 
@@ -22,6 +20,10 @@ Frontend dikembangkan menggunakan **Streamlit**, sedangkan backend menggunakan *
 - **FastAPI**: Untuk membangun backend.
 - **Transformers**: Untuk model NLP.
 - **Python**: Bahasa pemrograman utama untuk pengembangan.
+
+## Video Proyek
+
+Anda dapat menonton video tentang proyek ini di sini: [Tonton Video di LinkedIn](https://www.linkedin.com/posts/naufalnashif_digitalentacademy-bigdata-python-activity-7239283862437027843-78Wm?utm_source=share&utm_medium=member_desktop)
 
 ## Kesimpulan
 
