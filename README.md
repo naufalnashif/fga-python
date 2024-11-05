@@ -1,6 +1,6 @@
 # Fresh Graduate Academy Digitalent: Final Project
 
-![Project Banner](assets/Screenshot\ 2024-11-05\ at\ 09.45.16.png)
+![Project Banner](../assets/Screenshot\ 2024-11-05\ at\ 09.45.16.png)
 
 Excited to complete the final project for the **Big Data Using Python** course at Digitalent Academy in partnership with Binus University! 🎓
 
