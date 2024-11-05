@@ -1,0 +1,9 @@
+streamlit
+pandas
+google-play-scraper
+requests
+pytz
+seaborn
+matplotlib
+plotly
+wordcloud

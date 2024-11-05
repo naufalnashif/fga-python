@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "title": "Free",
+        "artist": "Ultra Nate",
+        "duration": "220",
+        "last_play": "2018-05-17 16:56:21"
+    },
+    {
+        "id": "2",
+        "title": "Ain't Nobody",
+        "artist": "Rufus, Chaka Khan",
+        "duration": "216",
+        "last_play": "2017-10-18 15:15:26"
+    },
+    {
+        "id": "3",
+        "title": "Haven't Met You Yet",
+        "artist": "Michael Buble",
+        "duration": "236",
+        "last_play": "2017-04-01 08:31:33"
+    },
+    {
+        "id": "4",
+        "title": "I Got You Babe",
+        "artist": "UB40, Chrissie Hynde",
+        "duration": "177",
+        "last_play": "2016-02-25 11:40:40"
+    },
+    {
+        "id": "5",
+        "title": "Paparazzi",
+        "artist": "Lady GaGa",
+        "duration": "199",
+        "last_play": "2016-02-23 08:24:37"
+    }
+]
